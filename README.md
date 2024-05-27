@@ -1,2 +1,2 @@
-# PreCoursesEGZ
-Repositorio prueba del Modulo 2 PreCourses Herry
+Eliana Zanona
+Este repositorio es una prueba de como clonar desde git hub a mi ordenador
